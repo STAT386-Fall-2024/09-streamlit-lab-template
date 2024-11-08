@@ -1,6 +1,6 @@
-# 09-streamlit-lab-template
+# Lab 9 - Streamlit App
 
-In this lab you will be creating and deploying a Streamlit app based on the titanic dataset. Once deployed, please include the url for your app below:
+In this lab you will be creating and deploying a Streamlit app based on the titanic dataset. Once deployed, please include the url for your app in the README below:
 
 [Here is my app](url_here)
 
@@ -12,4 +12,5 @@ In this lab you will be creating and deploying a Streamlit app based on the tita
     * Follow proper graphical guidelines (meaningful title, labels, etc.).
     * At least one feature should be dynamically set; that is, a user can manipulate some aspect of the graphic.
 * Include at least one **summary statistic** (e.g., mean age of deseased females) or **table** that can be dynamically set.
+* A requirements.txt file must be included in your repository for the app to use additional packages.
 * The app should by tidy and without errors.
