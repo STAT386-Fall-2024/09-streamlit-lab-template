@@ -1,1 +1,15 @@
 # 09-streamlit-lab-template
+
+In this lab you will be creating and deploying a Streamlit app based on the titanic dataset. Once deployed, please include the url for your app below:
+
+[Here is my app](url_here)
+
+### Requirements
+* The data must be cached for faster processing.
+* Include at least four user-inputs (e.g., slider, text box, checkbox, etc.).
+* Include at least two different layout options (e.g., tabs, columns, sidebar).
+* Include at least one one graphic:
+    * Follow proper graphical guidelines (meaningful title, labels, etc.).
+    * At least one feature should be dynamically set; that is, a user can manipulate some aspect of the graphic.
+* Include at least one **summary statistic** (e.g., mean age of deseased females) or **table** that can be dynamically set.
+* The app should by tidy and without errors.
